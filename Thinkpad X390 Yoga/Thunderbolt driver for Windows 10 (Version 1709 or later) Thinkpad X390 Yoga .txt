@@ -1,0 +1,10 @@
+https://download.lenovo.com/pccbbs/mobiles/n2lta09w.txt
+
+Support models     ThinkPad X390 Yoga (Machine types: 20NN, 20NQ)
+
+Operating System   Microsoft Windows 10  64-bit (1709 or later)
+
+                   Refer to marketing materials to find out what computer models
+                   support which Operating Systems.
+
+Version            1.41.648.5  (Device Manager)

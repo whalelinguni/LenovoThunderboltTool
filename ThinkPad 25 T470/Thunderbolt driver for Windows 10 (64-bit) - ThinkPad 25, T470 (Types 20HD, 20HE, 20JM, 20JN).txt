@@ -1,0 +1,10 @@
+https://download.lenovo.com/pccbbs/mobiles/n1qtd14w.exe
+
+Supported Systems
+
+    ThinkPad T470 (Machine Type: 20HD, 20HE, 20JM, 20JN)
+    ThinkPad 25 (Machine type: 20K7)
+
+Supported Operating Systems
+
+    Microsoft Windows 10 64-bit

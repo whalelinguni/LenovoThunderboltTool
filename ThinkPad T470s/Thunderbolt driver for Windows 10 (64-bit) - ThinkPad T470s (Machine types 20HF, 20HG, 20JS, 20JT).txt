@@ -1,0 +1,9 @@
+https://download.lenovo.com/pccbbs/mobiles/n1wta16w.exe
+
+Supported Systems
+
+    ThinkPad T470s (Machine types: 20HF, 20HG, 20JS, 20JT)
+
+Supported Operating Systems
+
+    Microsoft Windows 10 64-bit

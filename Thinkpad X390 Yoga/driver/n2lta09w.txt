@@ -1,0 +1,191 @@
+                                                                   Revision : 01
+--------------------------------------------------------------------------------
+Software name      Intel Thunderbolt Software for Windows 10 Version 1709 or
+                   Later
+
+Support models     ThinkPad X390 Yoga (Machine types: 20NN, 20NQ)
+
+Operating System   Microsoft Windows 10  64-bit (1709 or later)
+
+                   Refer to marketing materials to find out what computer models
+                   support which Operating Systems.
+
+Version            1.41.648.5  (Device Manager)
+
+Support device     Intel Thunderbolt Controller
+
+
+--------------------------------------------------------------------------------
+WHAT THIS PACKAGE DOES
+
+
+  This package installs the software (Thunderbolt software and device driver) to
+  enable the following device.
+
+  Device name                          Device name in the Device Manager
+  ---------------------------------    ---------------------------------
+  Intel Thunderbolt Controller-15BF    Thunderbolt(TM) Controller-15BF
+
+  Refer to marketing materials to find out what computer models support which
+  devices.
+
+  If this package has been installed, updating (overwrite-installing) this
+  package will fix problems, add new functions, or expand functions as noted
+  below.
+
+  This program is language independent and can be used with any language system.
+
+  This program is intended for Microsoft Windows 10 Version 1709 or later.
+
+
+--------------------------------------------------------------------------------
+CHANGES IN THIS RELEASE
+
+
+  Version  1.41.648.5
+
+[Important updates]
+ Nothing.
+
+[New functions or enhancements]
+ - Improved driver stability.
+
+[Problem fixes]
+ Nothing.
+
+
+--------------------------------------------------------------------------------
+DETERMINING WHICH VERSION IS INSTALLED
+
+
+  1. Right-click Windows logo on taskbar.
+  2. Select Device Manager.
+  3. Double-click System devices category.
+  4. Double-click Intel Thunderbolt Controller-15BF.
+  5. Select Driver tab.
+  6. Check Driver version.
+
+
+--------------------------------------------------------------------------------
+NOTES
+
+
+  Nothing.
+
+
+--------------------------------------------------------------------------------
+DETERMINING WINDOWS 10 VERSION
+
+
+  1. Hold down the Windows logo key and press R to open the "Run" dialog box.
+  2. Type in "winver" and press Enter to open the "About Windows" dialog box.
+     Windows 10 Version information will be indicated in this dialog box.
+
+
+--------------------------------------------------------------------------------
+INSTALLATION INSTRUCTIONS
+
+
+Notes:
+- If your computer runs satisfactorily now, it may not be necessary to update
+  the software. To determine if you should update the software, refer to the
+  Version Information section.
+- IMPORTANT: Make sure to restart the computer after installation.
+
+Manual Install
+
+  This section assumes to use Internet Explorer and Windows Explorer.
+
+  Downloading files
+  1. Select the underlined file name. Once this is done, some pop-up windows
+     will appear.
+  2. Follow the instructions on the screen.
+  3. In the window to choose Run or Save, select Save.
+  4. Once the download has completed, there may or may not be a message stating
+     that the download completed successfully.
+
+  Extracting files
+  5. Make sure to be logged on with an administrator account.
+  6. Locate the folder where the file was downloaded.
+  7. Locate the file that was downloaded and double-click it.
+  8. Follow the instructions on the screen.
+  9. In the Select Destination Location window, select Next. If you would like
+     to select a different folder, select Browse.
+ 10. In the Ready to Install window, select Install. All the necessary files
+     will be extracted to the folder selected in step 9.
+
+  Installing files
+ 11. Make sure the checkbox next to "Install ..... now" is checked and select
+     Finish.
+ 12. Follow the instructions on the screen to complete installation and restart
+     the computer.
+     IMPORTANT: Make sure to restart the computer after installation.
+
+  Finally delete the file saved in the step 4.
+
+Unattended Install
+
+  This is for system administrator's use only.
+
+  1. Refer to the Manual Install section, and download and extract the file.
+  2. In the step 11 of the Installing files section, uncheck the checkbox next
+     to "Install ..... now", and then select Finish to cancel installation.
+  3. At the command line, execute Setup.bat.
+     Example:
+     [Path where the files were extracted]\Setup.bat
+
+
+--------------------------------------------------------------------------------
+
+
+VERSION INFORMATION
+
+  The following versions have been released to date.
+
+  Version      Build ID    Rev.  Issue Date
+  -----------  --------    ----  ----------
+  1.41.648.5  N2LTA09W     01    2019/10/16
+  1.41.645.0  N2LTA08W     01    2019/06/14
+  1.41.613.1  N2LTA07W     01    2019/04/30
+
+  Note: Revision number (Rev.) is for administrative purpose of this README
+        document and is not related to software version. There is no need to
+        upgrade this software when the revision number changes.
+
+  To check the version of software, refer to the Determining which version is
+  installed section.
+
+  Summary of Changes
+
+  Where: <   >        Version number
+         [Important]  Important update
+         (New)        New function or enhancement
+         (Fix)        Correction to existing function
+
+<1.41.648.5> (N2LTA09W)
+-(New) Improved driver stability.
+
+<1.41.645.0> (N2LTA08W)
+-(New) Improved driver stability and added support for Windows 10 version 1709.
+
+<1.41.613.1> (N2LTA07W)
+-(New) Initial release for ThinkPad X390 Yoga (Machine types: 20NN, 20NQ).
+
+
+--------------------------------------------------------------------------------
+LIMITATIONS
+
+  Nothing.
+
+
+--------------------------------------------------------------------------------
+TRADEMARKS
+
+* Lenovo and ThinkPad are registered trademarks of Lenovo.
+
+* Intel is a registered trademark of Intel Corporation.
+* Microsoft and Windows are registered trademarks of Microsoft Corporation.
+* Thunderbolt is a trademark of Intel Corporation.
+
+Other company, product, and service names may be registered trademarks,
+trademarks or service marks of others.

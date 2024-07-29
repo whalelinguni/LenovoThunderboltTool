@@ -1,0 +1,17 @@
+https://download.lenovo.com/pccbbs/mobiles/n2itd03w.exe
+
+This package installs the software (Thunderbolt driver) to enable the following devices.
+
+    Thunderbolt(TM) Controller-15BF
+
+Supported Systems
+
+    ThinkPad P43s (Machine Types: 20RH, 20RJ)
+    ThinkPad P53s (Machine Types: 20N6, 20N7)
+    ThinkPad T490 (Machine Types: 20N2, 20N3, 20RY, 20RX)
+    ThinkPad T490 (Machine Types: 20Q9, 20QH)
+    ThinkPad T590 (Machine Types: 20N4, 20N5)
+
+Supported Operating Systems
+
+    Microsoft Windows 10 64-bit (Version 1809 or later)

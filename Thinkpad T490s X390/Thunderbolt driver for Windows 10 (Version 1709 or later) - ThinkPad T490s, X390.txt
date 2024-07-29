@@ -1,0 +1,4 @@
+Support models     ThinkPad T490s (Machine Types: 20NX,20NY)
+                   ThinkPad X390 (Machine Types: 20Q0, 20Q1, 20SC, 20SD)
+
+Operating System   Microsoft Windows 10 64-bit (1709 or later)

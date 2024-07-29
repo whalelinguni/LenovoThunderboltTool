@@ -1,0 +1,9 @@
+Supported Systems
+
+    ThinkPad T480 (Type 20L5, 20L6)
+    ThinkPad T480s (Type 20L7, 20L8)
+    ThinkPad X1 Carbon (Type 20KH, 20KG)
+
+Supported Operating Systems
+
+    Microsoft Windows 10 64-bit (Version 1709 and later)

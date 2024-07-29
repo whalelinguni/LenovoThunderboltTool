@@ -1,0 +1,15 @@
+https://download.lenovo.com/pccbbs/mobiles/n1utd07w.exe
+
+This package installs the software (Thunderbolt driver) to enable the following devices.
+
+    Thunderbolt(TM) Controller-15D9
+    Thunderbolt(TM) Controller-15D2
+
+Supported Systems
+
+    ThinkPad P51 (Machine types: 20HH, 20HJ, 20MN, 20MM)
+    ThinkPad P71 (Machine types: 20HK, 20HL)
+
+Supported Operating Systems
+
+    Microsoft Windows 10 64-bit

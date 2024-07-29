@@ -1,0 +1,12 @@
+https://download.lenovo.com/pccbbs/mobiles/n22ta0aw.exe   (T480)
+
+https://download.lenovo.com/pccbbs/mobiles/n22tb02w.exe   (Windows 10 S Mode Only)
+
+Supported Systems
+
+    ThinkPad T480 (Machine types: 20L5, 20L6)
+
+Supported Operating Systems
+
+    Microsoft Windows 10 64-bit (Version 1709, 1803)
+    Microsoft Windows 10 S Mode 64-bit (Version 1809 or later)

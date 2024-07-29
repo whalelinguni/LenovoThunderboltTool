@@ -1,0 +1,10 @@
+https://download.lenovo.com/pccbbs/mobiles/n2ctd10w.exe
+
+Supported Systems
+
+    ThinkPad P52 (Machine types: 20M9, 20MA)
+    ThinkPad P72 (Machine types: 20MB, 20MC)
+
+Supported Operating Systems
+
+    Microsoft Windows 10 64-bit

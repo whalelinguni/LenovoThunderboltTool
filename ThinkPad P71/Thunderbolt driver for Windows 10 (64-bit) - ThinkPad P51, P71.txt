@@ -1,0 +1,8 @@
+Supported Systems
+
+    ThinkPad P51 (Machine types: 20HH, 20HJ, 20MN, 20MM)
+    ThinkPad P71 (Machine types: 20HK, 20HL)
+
+Supported Operating Systems
+
+    Microsoft Windows 10 64-bit

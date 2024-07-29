@@ -1,0 +1,11 @@
+https://download.lenovo.com/pccbbs/mobiles/n1nta07w.exe
+
+Supported Systems
+
+    ThinkPad P51s (Machine types: 20HB, 20HC, 20JY, 20K0)
+    ThinkPad T570 (Machine types: 20H9, 20HA, 20JW, 20JX)
+    ThinkPad X1 Yoga (Machine types: 20JD, 20JE, 20JF, 20JG)
+
+Supported Operating Systems
+
+    Microsoft Windows 10 (64-bit)

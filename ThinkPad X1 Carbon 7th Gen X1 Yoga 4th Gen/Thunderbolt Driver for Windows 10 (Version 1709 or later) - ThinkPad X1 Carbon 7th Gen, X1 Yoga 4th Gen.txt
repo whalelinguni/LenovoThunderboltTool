@@ -1,0 +1,13 @@
+https://download.lenovo.com/pccbbs/mobiles/n2hta10w.exe
+
+Support models     ThinkPad X1 Carbon 7th (Machine types: 20QD, 20QE, 20R1, 20R2)
+                   ThinkPad X1 Yoga 4th   (Machine types: 20QF, 20QG, 20SA, 20SB)
+
+Operating System   Microsoft Windows 10 64-bit (Version 1709 or later)
+
+                   Refer to marketing materials to find out what computer models
+                   support which Operating Systems.
+
+Version            1.41.789.0
+
+Support device     Thunderbolt Controller-15D2

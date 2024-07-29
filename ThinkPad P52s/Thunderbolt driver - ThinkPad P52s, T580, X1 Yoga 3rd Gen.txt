@@ -1,0 +1,11 @@
+https://download.lenovo.com/pccbbs/mobiles/n27ta10w.exe
+
+Supported Systems
+
+    ThinkPad P52s (Machine types: 20LB, 20LC)
+    ThinkPad T580 (Machine types: 20L9, 20LA)
+    ThinkPad X1 Yoga (Machine types: 20LD, 20LE, 20LF, 20LG)
+
+Supported Operating Systems
+
+    Microsoft Windows 10 64-bit

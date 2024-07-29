@@ -1,0 +1,9 @@
+https://download.lenovo.com/pccbbs/mobiles/n1mta09w.exe
+
+Supported Systems
+
+    ThinkPad X1 Carbon (Machine types: 20HQ, 20HR, 20K3, 20K4)
+
+Supported Operating Systems
+
+    Microsoft Windows 10 64-bit

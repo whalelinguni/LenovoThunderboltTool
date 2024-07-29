@@ -1,0 +1,9 @@
+https://download.lenovo.com/pccbbs/mobiles/n20ta12w.exe
+
+Supported Systems
+
+    ThinkPad X280 (Machine types: 20KE, 20KF)
+
+Supported Operating Systems
+
+    Microsoft Windows 10 64-bit
