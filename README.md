@@ -1,7 +1,7 @@
 
 # Thinkpad Thunderbolt Firmware Tool
 
-## 'Thunderfault' name crdit SMDFlea at badcaps.net
+## 'Thunderfault' name credit SMDFlea at badcaps.net
 
 This readme was generated and I did not proof-read it or even read it to be honest. So it's either correct or somewhate correct or incorrect. For sure one of those. 
 
