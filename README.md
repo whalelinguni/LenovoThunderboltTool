@@ -2,9 +2,9 @@
 # Thinkpad Thunderbolt Firmware Tool
 
 ## Credits
-'Thunderfault' name SMDFlea at badcaps.net
+'Thunderfault' - SMDFlea at badcaps.net
 
-Lenovo Driver Manager Creaous at github.com/Creaous/LenovoDriverManager
+'Lenovo Driver Manager' - Creaous at github.com/Creaous/LenovoDriverManager
 
 
 ## README
