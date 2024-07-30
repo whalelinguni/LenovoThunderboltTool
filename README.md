@@ -1,6 +1,8 @@
 
 # Thinkpad Thunderbolt Firmware Tool
 
+## 'Thunderfault' name crdit SMDFlea at badcaps.net
+
 This readme was generated and I did not proof-read it or even read it to be honest. So it's either correct or somewhate correct or incorrect. For sure one of those. 
 
 ![Thinkpad Thunderbolt Firmware Tool](https://github.com/whalelinguni/LenovoThunderboltTool/blob/main/ThunderScreenShot.png)
@@ -49,7 +51,7 @@ Select a task by number or Q to quit:
 
 ## Notes
 
-- The name 'Thunderfault' is not mine, and I do not know where it came from, but it is funny.
+- Thank to SMDFlea at badcaps.net for the hilarious 'Thunderfault' naming. 
 
 ## Requirements
 
