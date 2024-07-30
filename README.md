@@ -1,7 +1,10 @@
 
 # Thinkpad Thunderbolt Firmware Tool
 
-## 'Thunderfault' name credit SMDFlea at badcaps.net
+## Credits
+'Thunderfault' name SMDFlea at badcaps.net
+Lenovo Driver Manager Creaous at github.com/Creaous/LenovoDriverManager
+
 
 This readme was generated and I did not proof-read it or even read it to be honest. So it's either correct or somewhate correct or incorrect. For sure one of those. 
 
